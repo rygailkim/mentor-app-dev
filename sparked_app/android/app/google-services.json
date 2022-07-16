@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151687885924",
+    "project_id": "sparked-app-dev",
+    "storage_bucket": "sparked-app-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151687885924:android:33a53b2c47e1dc88abdb71",
+        "android_client_info": {
+          "package_name": "com.ryannekim.sparked_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151687885924-am3dij5l8ia1fpk6hoeakpafk9s8bo1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWtBV2grSU8iwGpor9T5zME3b-sLS-HJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151687885924-am3dij5l8ia1fpk6hoeakpafk9s8bo1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
